@@ -1,0 +1,5 @@
+# exclude build directory
+build
+
+# excluded node_modules
+node_modules
