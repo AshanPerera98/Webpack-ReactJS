@@ -3,6 +3,7 @@ import Image from './react-image.png'
 import Logo from './react-logo.svg'
 
 export const App = () => {
+    const num = 0;
     return <>
     <h1>React TypeScript Webpack</h1>
     <h3>{process.env.NODE_ENV}</h3>
